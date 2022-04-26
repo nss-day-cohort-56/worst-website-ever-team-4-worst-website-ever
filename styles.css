@@ -59,6 +59,7 @@ h1 {
         opacity: 0.25
     }
 }
+<<<<<<< HEAD
 
 
 /* SCROLLING TEXT */
@@ -117,6 +118,29 @@ h1 {
     }
 
 
+=======
+span {
+    font-family: chiller;
+    text-shadow: 5px 4px 7px black;
+    
+}
+
+.clown_bios {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.clown_info {
+    display: flex;
+    flex-direction: column;
+}
+
+.clown_name {
+    font-size: x-large;
+    
+}
+>>>>>>> main
 
 
 
