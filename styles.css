@@ -67,6 +67,16 @@ span {
 
 
 
+.clown_info {
+    display: flex;
+    flex-direction: column;
+}
+
+.clown_name {
+    font-size: x-large;
+}
+
+
 
 
 
