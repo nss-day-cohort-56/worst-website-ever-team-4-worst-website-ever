@@ -65,7 +65,11 @@ span {
     
 }
 
-
+.clown_bios {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
 
 .clown_info {
     display: flex;
@@ -74,6 +78,7 @@ span {
 
 .clown_name {
     font-size: x-large;
+    
 }
 
 
