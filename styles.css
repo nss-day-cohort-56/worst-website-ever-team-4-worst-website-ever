@@ -6,7 +6,6 @@
 }
 span{
     font-size: 1.9rem;
-    font-family: cursive;
     color: white;
     animation: blink 0.1s linear infinite;
 }
@@ -25,7 +24,11 @@ h1 {
     text-shadow: 5px 4px 7px black;
 
 }
-
+span {
+    font-family: chiller;
+    text-shadow: 5px 4px 7px black;
+    
+}
 
 
 
